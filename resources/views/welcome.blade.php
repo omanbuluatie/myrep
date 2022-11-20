@@ -8,7 +8,6 @@
 
         <!-- Fonts -->
         <link href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
-		@vite(['resources/js/app.js','resources/css/app.css'])
 
         <!-- Styles -->
         <style>
@@ -22,14 +21,8 @@
         </style>
     </head>
     <body class="antialiased">
-        
-
-            <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-                <div id="app"></div>
-
-                
-               
-            </div>
+        <h1>Hi</h1>
+            <h3>Test Coding Hello WOrld</h3>
         </div>
     </body>
 </html>
